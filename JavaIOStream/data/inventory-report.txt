@@ -1,0 +1,4 @@
+BÁO CÁO TỒN KHO
+Số sản phẩm: 2
+Tổng giá trị tồn kho: 5.300.000 VND
+Sản phẩm có giá trị tồn kho cao nhất: SP1 - Bàn phím cơ - 3.500.000 VND
