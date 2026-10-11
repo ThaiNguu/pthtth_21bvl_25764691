@@ -1,0 +1,3 @@
+Xin chào Java Socket.
+Đây là bài thực hành 8.
+Kiểm tra truyền file an toàn bằng SHA-256.
